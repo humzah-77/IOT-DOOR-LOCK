@@ -5,9 +5,14 @@ This is a door lock that is controlled using an Arduino Nano 33 IOT and the Ardu
 How To Run:
 
 1. Configure board to cloud
-2. Upload iot_door_lock.ino to board
-3. Set up dashboard
+2. Upload iot_door_lock.ino to board from cloud
+3. Set up dashboard/Variables on cloud
 4. System is now ready
+
+
+<img width="1336" alt="Screen Shot 2021-11-24 at 8 34 12 PM" src="https://user-images.githubusercontent.com/58381410/143347010-9a39078d-b9e2-4145-941f-c05003059c44.png">
+
+
 
 Widgets
 
